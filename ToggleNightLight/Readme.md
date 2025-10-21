@@ -1,0 +1,1 @@
+PS1 and VBS shortcuts in Start Menu to toggle Night Light on Windows 11.
