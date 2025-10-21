@@ -1,4 +1,5 @@
 # NightLight.ps1
+# https://github.com/nathanbabcock/nightlight-cli
 # PowerShell script for controlling Windows 10/11 Night Light feature
 
 # Registry paths for Night Light settings
